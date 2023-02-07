@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>REMOTEOFFICEAUTHKEY</key>
+	<string>d5792ae6267c32ae1000ea52d6c8fcac</string>
+	<key>SERVERNAME</key>
+	<string>desktopcentral.manageengine.in</string>
+	<key>AUTODETECT_PROXY</key>
+	<string>false</string>
+	<key>REMOTEOFFICENAME</key>
+	<string>Default Remote Office</string>
+	<key>MSIRESTARTMANAGERCONTROL</key>
+	<string>Disable</string>
+	<key>SERVERPROTOCOL</key>
+	<string>https</string>
+	<key>UEMSProductCode</key>
+	<string>[DCODEE]</string>
+	<key>USEJSON</key>
+	<string>true</string>
+	<key>AGENTPOLLINGINTERVAL</key>
+	<string>10</string>
+	<key>SERVERSECIPADDRESS</key>
+	<string>desktopcentral.manageengine.in</string>
+	<key>CUSTOMERNAME</key>
+	<string>IT Admin</string>
+	<key>productcode</key>
+	<string>DCODEE</string>
+	<key>ENABLEDISTRIBUTIONSERVER</key>
+	<string>no</string>
+	<key>SERVERPORT</key>
+	<string>443</string>
+	<key>REMOTEOFFICEID</key>
+	<string>7088000000075893</string>
+	<key>AGENTVERSION</key>
+	<string>10.1.2228.19.M</string>
+	<key>SC_VALUE</key>
+	<string>0</string>
+	<key>PERFORMASSETSCAN</key>
+	<string>yes</string>
+	<key>SERVERSECUREPORT</key>
+	<string>443</string>
+	<key>ALLUSERS</key>
+	<string>1</string>
+	<key>ENABLESILENT</key>
+	<string>YES</string>
+	<key>SERVERFLATNAME</key>
+	<string>desktopcentral.manageengine.in</string>
+	<key>MSPNAME</key>
+	<string>DC_MSP</string>
+	<key>DATA_TRANSFER_RATE</key>
+	<string>0</string>
+	<key>INSTALLTIME</key>
+	<string>1673339563</string>
+	<key>UNIQUE_ID_PARAM</key>
+	<string>SERVICE_TAG</string>
+	<key>PROXYBYPASS</key>
+	<string></string>
+	<key>SERVERIPADDRESS</key>
+	<string>desktopcentral.manageengine.in</string>
+	<key>CUSTOMERID</key>
+	<string>7088000000075661</string>
+	<key>ENABLE_CAPTCHA</key>
+	<string>yes</string>
+	<key>ENABLEREMOTEOFFICEMGMT</key>
+	<string>yes</string>
+	<key>PERFORMPATCHSCAN</key>
+	<string>yes</string>
+	<key>RoSummaryEnabled</key>
+	<string>true</string>
+	<key>VALUE2</key>
+	<string>d5792ae6267c32ae1000ea52d6c8fcac</string>
+	<key>UNIQUE_ID_STATUS</key>
+	<string>false</string>
+	<key>VALUE1</key>
+	<string>a8306f1f0b1ee86bf4c28a769d7208d9703938704cf406c387afaa9964f4dd7dca05adb72dc30744b48fdfa476a374f0fa64095f5abf4fa9c6fa56d48d2fcd513df9b6ff6d901f34b1257e12d48e1439a2566193b6560f6e9e74b2e5587fab5cca10715c302c0b7244408a3e13744f6d003b48710279db891016c2bf8e1e471d3d85465a6517adac04f384636d0b56a09e8d88e55afbb72f93829aa385e94dc30a21712a59f7905375e2bb29b451bfb7</string>
+	<key>ENABLEPROXY</key>
+	<string>no</string>
+	<key>DirectDownloadEnabled</key>
+	<string>true</string>
+	<key>PERFORMPOSTINSTALL</key>
+	<string>yes</string>
+	<key>DID</key>
+	<string>7088000000103187</string>
+</dict>
+</plist>
